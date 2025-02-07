@@ -23,7 +23,7 @@ This project is part of [The Odin Project's](https://www.theodinproject.com) cur
 
 ### Live Demo
 
-Check out the live demo [here](#).
+Check out the live demo [here](https://lngphgthao.github.io/pj-landing-pages/).
 
 ### Getting Started
 
@@ -31,7 +31,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/pj-landing-pages.git
+    git clone https://github.com/lngphgthao/pj-landing-pages.git
     ```
 2. Open `index.html` in your browser to view the landing page.
 
